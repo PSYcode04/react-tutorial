@@ -1,5 +1,5 @@
 {
-  "name": "hello-react",
+  "name": "react_tutorial",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh -pages -d build",
+    "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
   },
   "eslintConfig": {
@@ -36,5 +36,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://psycode04.github.io/react-tutorial"
+  "homepage": "http://psycode04.github.io/react-tutorial"
 }
